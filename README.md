@@ -37,17 +37,25 @@ class Wellington:
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="top">
 
 <div align="center">
-  <h2><strong>Estatísticas</strong></h2>
-  <!-- Estatísticas Dinâmicas de Linguagens -->
-  <img 
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonPereiraLuiz&theme=radical&layout=donut&hide_border=true" 
-  />
+  <h2><strong>Objetivos &amp; Foco</strong></h2>
 </div>
+
+* 🐍 **Python &amp; Clean Code**
+  `████████░░ 80%`
+* 🐧 **Linux &amp; Redes**
+  `████░░░░░░ 40%`
+* 🦀 **Rust &amp; Baixo Nível**
+  `██░░░░░░░░ 20%`
+* 💎 **Ruby**
+  `█░░░░░░░░░ 10%`
+
+<br>
+
+> *"Simplicidade é o último grau de sofisticação."*
+> — Leonardo da Vinci
 
 </td>
 </tr>
