@@ -19,7 +19,7 @@
 
 Olá! Meu nome é **Wellington**. Tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) no IFRO** e estagiário na **Prefeitura de Ariquemes**. 
 
-Atualmente, estou iniciando em **Python** com foco em **código limpo (Clean Code) e desenvolvimento de baixo nível (low-level)**, e meus próximos objetivos são aprender **Rust** e **Ruby**.
+Atualmente, estou iniciando em **Python** com foco em **código limpo (Clean Code) e desenvolvimento de baixo nível (low-level)**, e meus próximos objetivos são aprender **Rust**, **Ruby** e me aprofundar em **Redes de Computadores** e **Linux**.
 
 ```python
 class Wellington:
@@ -28,9 +28,9 @@ class Wellington:
         self.age = 21
         self.education = "ADS at IFRO"
         self.current_role = "Intern at Prefeitura de Ariquemes"
-        self.interests = ["Clean Code", "Low-Level Development"]
+        self.interests = ["Clean Code", "Low-Level Development", "Computer Networks"]
         self.stack = ["Python", "Dart", "Flutter"]
-        self.next_goals = ["Rust", "Ruby"]
+        self.next_goals = ["Rust", "Ruby", "Linux"]
 
     def code(self):
         return "Writing clean code & exploring systems architecture."
