@@ -45,27 +45,13 @@ class Wellington:
   <img 
     align="center"
     alt="GitHub Stats"
-    height="320px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonPereiraLuiz&bg_color=010409&theme=radical&border_color=010409&layout=donut-vertical&cache_seconds=10" 
-    valign="top"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonPereiraLuiz&theme=radical&layout=donut&hide_border=true" 
   />
 </div>
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- Tecnologias e Ferramentas -->
-<div align="center">
-  <h3><strong>Stack &amp; Tools</strong></h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,rust,ruby,dart,flutter,sqlite,git,github,vscode,powershell,linux&perline=6" alt="Minhas Tecnologias">
-    </a>
-  </p>
-</div>
 
 ---
 
