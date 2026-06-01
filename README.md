@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+  <!-- Banner Principal -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Wellington%20Pereira%20Luiz&fontSize=45&fontColor=fff&reversal=true&desc=ADS%20Student%20%7C%20Intern%20at%20Prefeitura%20de%20Ariquemes&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
 
-<!--
-**WellingtonPereiraLuiz/WellingtonPereiraLuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Animação de Texto Digital (Typing) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Estudante+de+ADS+no+IFRO;Estagi%C3%A1rio+na+Prefeitura+de+Ariquemes;Focado+em+Clean+Code+e+Baixo+N%C3%ADvel;Iniciando+em+Python%2C+com+planos+para+Rust+e+Ruby." alt="Typing Animation" />
+</div>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<div align="center">
+    <h2><strong>Sobre Mim</strong></h2>
+</div>
+
+Olá! Meu nome é **Wellington**. Tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) no IFRO** e estagiário na **Prefeitura de Ariquemes**. 
+
+Atualmente, estou iniciando em **Python** com foco em **código limpo (Clean Code) e desenvolvimento de baixo nível (low-level)**, e meus próximos objetivos são aprender **Rust** e **Ruby**.
+
+```python
+class Wellington:
+    def __init__(self):
+        self.name = "Wellington Pereira Luiz"
+        self.age = 21
+        self.education = "ADS at IFRO"
+        self.current_role = "Intern at Prefeitura de Ariquemes"
+        self.interests = ["Clean Code", "Low-Level Development"]
+        self.stack = ["Python", "Dart", "Flutter"]
+        self.next_goals = ["Rust", "Ruby"]
+
+    def code(self):
+        return "Writing clean code & exploring systems architecture."
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<div align="center">
+  <h2><strong>Estatísticas</strong></h2>
+  <!-- Estatísticas Dinâmicas de Linguagens -->
+  <img 
+    align="center"
+    alt="GitHub Stats"
+    height="320px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonPereiraLuiz&bg_color=010409&theme=radical&border_color=010409&layout=donut-vertical&cache_seconds=10" 
+    valign="top"
+  />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Tecnologias e Ferramentas -->
+<div align="center">
+  <h3><strong>Stack &amp; Tools</strong></h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,rust,ruby,dart,flutter,sqlite,git,github,vscode,powershell,linux&perline=6" alt="Minhas Tecnologias">
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <!-- Banner do Rodapé -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+</div>
