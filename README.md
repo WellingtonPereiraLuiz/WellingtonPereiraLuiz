@@ -9,10 +9,6 @@
 <br>
 <br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 <div align="center">
     <h2><strong>Sobre Mim</strong></h2>
 </div>
@@ -35,31 +31,6 @@ class Wellington:
     def code(self):
         return "Writing clean code & exploring systems architecture."
 ```
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-  <h2><strong>Objetivos &amp; Foco</strong></h2>
-</div>
-
-* 🐍 **Python &amp; Clean Code**
-  `████████░░ 80%`
-* 🐧 **Linux &amp; Redes**
-  `████░░░░░░ 40%`
-* 🦀 **Rust &amp; Baixo Nível**
-  `██░░░░░░░░ 20%`
-* 💎 **Ruby**
-  `█░░░░░░░░░ 10%`
-
-<br>
-
-> *"Simplicidade é o último grau de sofisticação."*
-> — Leonardo da Vinci
-
-</td>
-</tr>
-</table>
 
 ---
 
